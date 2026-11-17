@@ -1,0 +1,8 @@
+{
+  "name": "Aetheria Virtual Science Laboratory",
+  "description": "Immersive futuristic research facility and interactive virtual science laboratory featuring real-time physics, chemistry, biology, genetics, astronomy, forensics, and earth science simulations with an AI lab mentor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
